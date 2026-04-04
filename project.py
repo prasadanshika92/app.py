@@ -356,5 +356,5 @@ Every kg of CO₂ saved improves health, protects wildlife, and stabilizes clima
 🌱 Reduce, Reuse, Recycle, and Switch to Eco-friendly products!
 """)
 
-# ---------- FOOTER ----------
+# ---------- FOOTER ---------
 st.write("🌿 EcoTrack AI | Final Version 🚀")
