@@ -7,8 +7,7 @@ st.set_page_config(page_title="EcoTrack AI 🌱", layout="centered")
 
 # Title
 st.sidebar.title("EcoTrack AI 🌱")
-st.sidebar.write("Track. Improve. Sustain.")
-
+st.sidebar.write("Track. Improve. Sustain.)
 # Input Section
 st.header("📥 Enter Your Daily Habits")
 
